@@ -1,4 +1,5 @@
-# airpollution 
+# Air Pollution 
+
 ## Author: Kim Duong 
 ## ISQA 8080: Individual Assignment 
 
