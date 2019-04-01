@@ -5,7 +5,7 @@
 
 ### Data Source 
 
-####Dataset 1: deaths-air-pollution vs gdp 
+#### Dataset 1: deaths-air-pollution vs gdp 
 
 Source: http://ghdx.healthdata.org/gbd-results-tool
 
@@ -17,7 +17,7 @@ GDP per capita, PPP (constant 2011 international $) ($)
 Total population (Gapminder)
 
 
-####Dataset 2: PM25-air-pollution 
+#### Dataset 2: PM25-air-pollution 
 
 Source: 
 
@@ -27,7 +27,7 @@ Year
 PM2.5 air pollution, mean annual exposure (micrograms per cubic meter) (micrograms per cubic meter)
 
 
-####Dataset 3: so-emissions-by-world-religion-in-million-tonnes
+#### Dataset 3: so-emissions-by-world-religion-in-million-tonnes
 
 Source: 
 
@@ -36,7 +36,7 @@ Code
 Year
 Million Tonnes 
 
-####Dataset 4: death-rate-from-pm25-vs-pm25-concentration 
+#### Dataset 4: death-rate-from-pm25-vs-pm25-concentration 
 
 Source: 
 
